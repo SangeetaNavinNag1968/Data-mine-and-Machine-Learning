@@ -1,0 +1,167 @@
+ROLL,fname,mname,lname,sub1,mrk1,grd1,sub2,mrk2,grd2,sub3,mrk3,grd3,sub4,mrk4,grd4,sub5,mrk5,grd5,GRD,Total,percentage
+,,,,,,,,,,,,,,,,,,,,,
+9118174,AGREEYA,NARAIN,,English Core,93,A2,Mathematics,61,B2,Physics,70,B2,Chemistry,59,D1,Comp. Sci.,83,B1,PASS,366,73.2
+9118175,AHMAR,ALI,KHAN,English Core,88,A2,Mathematics,35,D2,Physics,51,D2,Chemistry,59,D1,Comp. Sci.,67,C2,PASS,300,60
+9118176,AMAN,ARORA,,English Core,93,A2,Mathematics,85,A2,Physics,89,A2,Chemistry,95,A1,Comp. Sci.,96,A1,PASS,458,91.6
+9118177,AMAN,SHARMA,,English Core,88,A2,Mathematics,62,B2,Physics,79,B1,Chemistry,79,B2,Comp. Sci.,83,B1,PASS,391,78.2
+9118178,AMULYA,JAIN,,English Core,95,A1,Mathematics,86,A2,Physics,94,A1,Chemistry,95,A1,Comp. Sci.,92,A2,PASS,462,92.4
+9118179,ANUSH,SHARDA,,English Core,95,A1,Mathematics,71,B1,Physics,75,B2,Chemistry,75,B2,Comp. Sci.,78,B2,PASS,394,78.8
+9118180,ARCHIT,GOEL,,English Core,89,A2,Mathematics,65,B2,Physics,63,C2,Chemistry,69,C1,Comp. Sci.,70,C2,PASS,356,71.2
+9118181,CHHAVI,DUA,,English Core,96,A1,Mathematics,95,A1,Physics,95,A1,Chemistry,95,A1,Comp. Sci.,85,B1,PASS,466,93.2
+9118182,DHRUV,DOGRA,,English Core,83,B1,Mathematics,93,A1,Physics,94,A1,Chemistry,92,A2,Comp. Sci.,85,B1,PASS,447,89.4
+9118183,GAGANDEEP,SINGH,,English Core,88,A2,Mathematics,56,C1,Physics,69,C1,Chemistry,82,B1,Comp. Sci.,84,B1,PASS,379,75.8
+9118184,HIMANSHU,ARORA,,English Core,95,A1,Mathematics,95,A1,Physics,94,A1,Chemistry,95,A1,Comp. Sci.,92,A2,PASS,471,94.2
+9118185,KANISHK,KUMAR,GUPTA,English Core,95,A1,Mathematics,93,A1,Physics,87,A2,Chemistry,95,A1,Comp. Sci.,93,A2,PASS,463,92.6
+9118186,KARTIK,KALRA,,English Core,88,A2,Mathematics,65,B2,Physics,75,B2,Chemistry,67,C2,Comp. Sci.,73,C1,PASS,368,73.6
+9118187,KULDIP,VERMA,,English Core,95,A1,Mathematics,91,A2,Physics,95,A1,Chemistry,87,B1,Comp. Sci.,88,A2,PASS,456,91.2
+9118188,KUSHAGRA,GARG,,English Core,95,A1,Mathematics,58,C1,Physics,75,B2,Chemistry,83,B1,Comp. Sci.,84,B1,PASS,395,79
+9118189,LUVISH,SHARMA,,English Core,41,42,Mathematics,83,ABST,Physics,,,Chemistry,,,Comp. Sci.,,,,124,24.8
+9118190,MEGHA,TUFCHI,,English Core,95,A1,Mathematics,69,B1,Physics,84,A2,Chemistry,94,A2,Comp. Sci.,80,B2,PASS,422,84.4
+9118191,NAMAN,SAXENA,,English Core,83,B1,Mathematics,48,C2,Physics,74,B2,Chemistry,59,D1,Comp. Sci.,74,C1,PASS,338,67.6
+9118192,NIKHIL,DHAND,,English Core,91,A2,Mathematics,71,B1,Physics,75,B2,Chemistry,80,B2,Comp. Sci.,80,B2,PASS,397,79.4
+9118193,NISHANT,KUMAR,SHARMA,English Core,95,A1,Mathematics,41,D1,Physics,63,C2,Chemistry,67,C2,Comp. Sci.,82,B2,PASS,348,69.6
+9118194,PARV,VERMA,,English Core,94,A1,Mathematics,75,B1,Physics,95,A1,Chemistry,89,A2,Comp. Sci.,91,A2,PASS,444,88.8
+9118195,PIYUSH,PARASHAR,,English Core,95,A1,Mathematics,94,A1,Physics,90,A1,Chemistry,92,A2,Comp. Sci.,94,A1,PASS,465,93
+9118196,PRABHJOT,SINGH,SIDHU,English Core,95,A1,Mathematics,96,A1,Physics,95,A1,Chemistry,98,A1,Comp. Sci.,97,A1,PASS,481,96.2
+9118197,PRIYANSHI,SHARMA,,English Core,78,B2,Mathematics,75,B1,Physics,75,B2,Chemistry,78,B2,Comp. Sci.,63,D1,PASS,369,73.8
+9118198,RISHABH,GUPTA,,English Core,85,B1,Mathematics,92,A1,Physics,81,B1,Chemistry,80,B2,Comp. Sci.,85,B1,PASS,423,84.6
+9118199,RITIKA,ARORA,,English Core,95,A1,Mathematics,79,A2,Physics,88,A2,Chemistry,92,A2,Comp. Sci.,89,A2,PASS,443,88.6
+9118200,SAAD,HASAN,KHAN,English Core,88,A2,Mathematics,59,C1,Physics,75,B2,Chemistry,84,B1,Comp. Sci.,86,B1,PASS,392,78.4
+9118201,SAKSHAM,KUMAR,,English Core,95,A1,Mathematics,95,A1,Physics,90,A1,Chemistry,95,A1,Comp. Sci.,93,A2,PASS,468,93.6
+9118202,SAKSHI,YADAV,,English Core,95,A1,Mathematics,95,A1,Physics,98,A1,Chemistry,99,A1,Comp. Sci.,96,A1,PASS,483,96.6
+9118203,SHRADHA,MOHAN,,English Core,96,A1,Mathematics,84,A2,Physics,84,A2,Chemistry,95,A1,Comp. Sci.,87,B1,PASS,446,89.2
+9118204,SHREYA,KUMAR,,English Core,95,A1,Mathematics,49,C2,Physics,62,C2,Chemistry,55,D2,Comp. Sci.,57,D1,PASS,318,63.6
+9118205,SHRUTI,BHATI,,English Core,91,A2,Mathematics,73,B1,Physics,85,A2,Chemistry,94,A2,Comp. Sci.,89,A2,PASS,432,86.4
+9118206,SHRUTI,DIWAN,,English Core,95,A1,Mathematics,62,B2,Physics,75,B2,Chemistry,85,B1,Comp. Sci.,86,B1,PASS,403,80.6
+9118207,SHUBHAM,GUPTA,,English Core,88,A2,Mathematics,42,D1,Physics,50,D2,Chemistry,60,D1,Comp. Sci.,73,C1,PASS,313,62.6
+9118208,SHUBHAM,SINGH,,English Core,79,B2,Mathematics,37,D2,Physics,57,D1,Chemistry,55,D2,Comp. Sci.,53,D2,PASS,281,56.2
+9118209,SIMRAN,GILL,,English Core,95,A1,Mathematics,55,C1,Physics,78,B1,Chemistry,72,C1,Comp. Sci.,75,C1,PASS,375,75
+9118210,SIMRAN,SINGHAL,,English Core,81,B2,Mathematics,56,C1,Physics,66,C1,Chemistry,62,D1,Comp. Sci.,77,B2,PASS,342,68.4
+9118211,SRISHTI,VARUN,,English Core,88,A2,Mathematics,48,C2,Physics,64,C2,Chemistry,62,D1,Comp. Sci.,58,D1,PASS,320,64
+9118212,UJJAWAL,JAIN,,English Core,95,A1,Mathematics,95,A1,Physics,93,A1,Chemistry,95,A1,Comp. Sci.,94,A1,PASS,472,94.4
+9118213,VARUN,KUMAR,SINGH,English Core,93,A2,Mathematics,77,B1,Physics,94,A1,Chemistry,95,A1,Comp. Sci.,87,B1,PASS,446,89.2
+9118214,VIBHOR,RATURI,,English Core,95,A1,Mathematics,95,A1,Physics,95,A1,Chemistry,96,A1,Comp. Sci.,89,A2,PASS,470,94
+9118215,VINAYAK,GAUR,,English Core,95,A1,Mathematics,91,A2,Physics,91,A1,Chemistry,96,A1,Comp. Sci.,94,A1,PASS,467,93.4
+9118216,ZARA,KHAN,,English Core,95,A1,Mathematics,85,A2,Physics,95,A1,Chemistry,95,A1,Comp. Sci.,89,A2,PASS,459,91.8
+9118217,ADITI,YADAV,,English Core,89,A2,Mathematics,86,A2,Physics,94,A1,Chemistry,95,A1,Biology,89,B1,PASS,453,90.6
+9118218,AKSHITA,BANSAL,,English Core,95,A1,Mathematics,92,A1,Physics,95,A1,Chemistry,99,A1,Biology,88,B1,PASS,469,93.8
+9118219,ANIRUDH,VAID,,English Core,95,A1,Mathematics,95,A1,Physics,96,A1,Chemistry,96,A1,Biology,95,A1,PASS,477,95.4
+9118220,DIYVA,PRASAD,,English Core,88,A2,Mathematics,48,C2,Physics,67,C1,Chemistry,72,C1,Biology,81,B2,PASS,356,71.2
+9118221,EVA,JAIN,,English Core,95,A1,Mathematics,91,A2,Physics,78,B1,Chemistry,67,C2,Biology,67,C2,PASS,398,79.6
+9118222,HIMANK,GUPTA,,English Core,95,A1,Mathematics,95,A1,Physics,99,A1,Chemistry,99,A1,Biology,95,A1,PASS,483,96.6
+9118223,ISHITA,MALHOTRA,,English Core,88,A2,Mathematics,75,B1,Physics,82,A2,Chemistry,71,C1,Biology,84,B1,PASS,400,80
+9118224,KASHISH,SINGLA,,English Core,95,A1,Mathematics,81,A2,Physics,94,A1,Chemistry,95,A1,Biology,79,B2,PASS,444,88.8
+9118225,MAHUA,PAUL,,English Core,95,A1,Mathematics,68,B2,Physics,77,B1,Chemistry,81,B1,Biology,87,B1,PASS,408,81.6
+9118226,NIHARIKA,GROVER,,English Core,94,A1,Mathematics,95,A1,Physics,95,A1,Chemistry,92,A2,Biology,90,A2,PASS,466,93.2
+9118227,NOOPUR,AGGARWAL,,English Core,95,A1,Mathematics,95,A1,Physics,91,A1,Chemistry,96,A1,Biology,87,B1,PASS,464,92.8
+9118228,PALLAVI,DUTT,,English Core,94,A1,Mathematics,86,A2,Physics,94,A1,Chemistry,93,A2,Biology,77,C1,PASS,444,88.8
+9118229,PRARTHI,KALUCHA,,English Core,84,B1,Mathematics,50,C2,Physics,73,B2,Chemistry,76,B2,Biology,67,C2,PASS,350,70
+9118230,SABHYA,A,LOKHANDE,English Core,91,A2,Mathematics,65,B2,Physics,58,D1,Chemistry,71,C1,Biology,67,C2,PASS,352,70.4
+9118231,SHRUTI,GUPTA,,English Core,89,A2,Mathematics,81,A2,Physics,86,A2,Chemistry,84,B1,Biology,88,B1,PASS,428,85.6
+9118232,SHUBHI,CHAUHAN,,English Core,79,B2,Mathematics,48,C2,Physics,60,D1,Chemistry,79,B2,Biology,69,C2,PASS,335,67
+9118233,VIBHUTI,KAUSHIK,,English Core,95,A1,Mathematics,63,B2,Physics,84,A2,Chemistry,87,B1,Biology,95,A1,PASS,424,84.8
+9118234,ADITYA,AGARWAL,,English Core,91,A2,Mathematics,91,A2,Physics,89,A2,Chemistry,92,A2,Engg. Graphics,98,A1,PASS,461,92.2
+9118235,ADITYA,BHATIA,,English Core,76,B2,Mathematics,95,A1,Physics,95,A1,Chemistry,97,A1,Engg. Graphics,99,A1,PASS,462,92.4
+9118236,AKSHIT,SHARMA,,English Core,89,A2,Mathematics,36,D2,Physics,62,C2,Chemistry,69,C1,Engg. Graphics,74,D1,PASS,330,66
+9118237,ANIRUDH,GOEL,,English Core,95,A1,Mathematics,95,A1,Physics,82,A2,Chemistry,94,A2,Engg. Graphics,97,A2,PASS,463,92.6
+9118238,BHAVESH,PANSE,,English Core,69,C1,Mathematics,66,B2,Physics,76,B1,Chemistry,88,B1,Engg. Graphics,90,B2,PASS,389,77.8
+9118239,BHAVUCK,JAIN,,English Core,95,A1,Mathematics,95,A1,Physics,94,A1,Chemistry,95,A1,Engg. Graphics,99,A1,PASS,478,95.6
+9118240,BHAVAY,SETHI,,English Core,74,C1,Mathematics,66,B2,Physics,76,B1,Chemistry,81,B1,Engg. Graphics,78,D1,PASS,375,75
+9118241,DRISHTY,YADAV,,English Core,94,A1,Mathematics,56,C1,Physics,58,D1,Chemistry,76,B2,Engg. Graphics,89,B2,PASS,373,74.6
+9118242,EESHAN,MALHOTRA,,English Core,88,A2,Mathematics,95,A1,Physics,95,A1,Chemistry,95,A1,Engg. Graphics,97,A2,PASS,470,94
+9118243,HARSHIT,,,English Core,95,A1,Mathematics,95,A1,Physics,84,A2,Chemistry,82,B1,Engg. Graphics,99,A1,PASS,455,91
+9118244,JAHNVI,SINGH,,English Core,95,A1,Mathematics,95,A1,Physics,95,A1,Chemistry,96,A1,Engg. Graphics,98,A1,PASS,479,95.8
+9118245,MOHIT,KAPOOR,,English Core,80,B2,Mathematics,95,A1,Physics,95,A1,Chemistry,95,A1,Engg. Graphics,98,A1,PASS,463,92.6
+9118246,PIYUSH,GOEL,,English Core,90,A2,Mathematics,95,A1,Physics,90,A1,Chemistry,95,A1,Engg. Graphics,96,A2,PASS,466,93.2
+9118247,PRAJESH,SINGH,,English Core,95,A1,Mathematics,95,A1,Physics,90,A1,Chemistry,95,A1,Engg. Graphics,97,A2,PASS,472,94.4
+9118248,PUNEET,SINDHU,,English Core,88,A2,Mathematics,95,A1,Physics,95,A1,Chemistry,99,A1,Engg. Graphics,100,A1,PASS,477,95.4
+9118249,RAJAT,MITAL,,English Core,88,A2,Mathematics,95,A1,Physics,79,B1,Chemistry,94,A2,Engg. Graphics,93,B1,PASS,449,89.8
+9118250,RISHABH,RALLI,,English Core,80,B2,Mathematics,85,A2,Physics,82,A2,Chemistry,94,A2,Engg. Graphics,57,D2,PASS,398,79.6
+9118251,SAHIL,JAIN,,English Core,80,B2,Mathematics,67,B2,Physics,76,B1,Chemistry,85,B1,Engg. Graphics,86,C1,PASS,394,78.8
+9118252,SUNEET,THAKUR,,English Core,93,A2,Mathematics,72,B1,Physics,79,B1,Chemistry,88,B1,Engg. Graphics,95,A2,PASS,427,85.4
+9118253,VAIBHAV,SHARMA,,English Core,82,B1,Mathematics,56,C1,Physics,65,C1,Chemistry,81,B1,Engg. Graphics,84,C2,PASS,368,73.6
+9118254,JAI,SINGH,CHAUHAN,English Core,95,A1,Mathematics,85,A2,Physics,89,A2,Economics,91,A1,Chemistry,93,A2,PASS,453,90.6
+9118255,SHUBHAM,GAUR,,English Core,95,A1,Mathematics,83,A2,Physics,91,A1,Economics,89,A2,Chemistry,95,A1,PASS,453,90.6
+9118256,SWASTIKA,JAIN,,English Core,95,A1,Mathematics,90,A2,Physics,95,A1,Economics,95,A1,Chemistry,95,A1,PASS,470,94
+9118257,VARUN,JOLLY,,English Core,84,B1,Mathematics,55,C1,Physics,59,D1,Economics,71,B1,Chemistry,63,C2,PASS,332,66.4
+,,,,,,,,,,,,,,,,,,,,,
+9118258,ABHAY,GOYAL,,English Core,68,C1,Mathematics,81,A2,B.Studies,87,B1,Economics,84,A2,Accountancy,85,A2,PASS,405,81
+9118259,ABHISHEK,LAMBA,,English Core,95,A1,Mathematics,93,A1,B.Studies,95,A1,Economics,95,A1,Accountancy,99,A1,PASS,477,95.4
+9118260,AKANKSHA,GUPTA,,English Core,95,A1,Mathematics,95,A1,B.Studies,95,A1,Economics,95,A1,Accountancy,98,A1,PASS,478,95.6
+9118261,AKSHAT,SHARMA,,English Core,75,B2,Mathematics,48,C2,B.Studies,65,C2,Economics,33,D2,Accountancy,57,C2,PASS,278,55.6
+9118262,ANKUR,MITTAL,,English Core,95,A1,Mathematics,95,A1,B.Studies,96,A1,Economics,95,A1,Accountancy,100,A1,PASS,481,96.2
+9118263,ANSHUL,KOCHHAR,,English Core,95,A1,Mathematics,54,C1,B.Studies,91,A2,Economics,86,A2,Accountancy,72,B2,PASS,398,79.6
+9118264,ARUSHA,JAIN,,English Core,95,A1,Mathematics,95,A1,B.Studies,93,A2,Economics,96,A1,Accountancy,98,A1,PASS,477,95.4
+9118265,CHESHTA,KHANEJA,,English Core,95,A1,Mathematics,80,A2,B.Studies,91,A2,Economics,95,A1,Accountancy,93,A2,PASS,454,90.8
+9118266,DEEPANSHU,SHARMA,,English Core,77,B2,Mathematics,33,D2,B.Studies,93,A2,Economics,49,C2,Accountancy,62,C1,PASS,314,62.8
+9118267,DIVYANSH,JAIN,,English Core,90,A2,Mathematics,50,C2,B.Studies,83,B1,Economics,71,B1,Accountancy,82,B1,PASS,376,75.2
+9118268,HIMANSHI,GUPTA,,English Core,95,A1,Mathematics,96,A1,B.Studies,95,A1,Economics,95,A1,Accountancy,97,A1,PASS,478,95.6
+9118269,HRIDAYA,TRIVEDI,,English Core,95,A1,Mathematics,77,B1,B.Studies,96,A1,Economics,95,A1,Accountancy,88,A2,PASS,451,90.2
+9118270,JATIN,MADAN,,English Core,88,A2,Mathematics,34,D2,B.Studies,86,B1,Economics,72,B1,Accountancy,82,B1,PASS,362,72.4
+9118271,KARAN,GOEL,,English Core,89,A2,Mathematics,48,C2,B.Studies,74,B2,Economics,87,A2,Accountancy,93,A2,PASS,391,78.2
+9118272,KIRTI,SINGLA,,English Core,88,A2,Mathematics,49,C2,B.Studies,94,A2,Economics,87,A2,Accountancy,79,B1,PASS,397,79.4
+9118273,KSHITIZ,ARORA,,English Core,96,A1,Mathematics,95,A1,B.Studies,98,A1,Economics,95,A1,Accountancy,99,A1,PASS,483,96.6
+9118274,MANIT,AGGARWAL,,English Core,95,A1,Mathematics,68,B2,B.Studies,94,A2,Economics,83,A2,Accountancy,95,A1,PASS,435,87
+9118275,MANSI,BHANDARI,,English Core,90,A2,Mathematics,68,B2,B.Studies,95,A1,Economics,82,A2,Accountancy,91,A2,PASS,426,85.2
+9118276,MANSI,GUPTA,,English Core,95,A1,Mathematics,55,C1,B.Studies,93,A2,Economics,87,A2,Accountancy,78,B1,PASS,408,81.6
+9118277,MUSKAN,AGARWAL,,English Core,95,A1,Mathematics,95,A1,B.Studies,98,A1,Economics,95,A1,Accountancy,98,A1,PASS,481,96.2
+9118278,NAVDEEP,SINGH,,English Core,54,D1,Mathematics,33,D2,B.Studies,66,C1,Economics,33,D2,Accountancy,58,C2,PASS,244,48.8
+9118279,PARAG,SINGH,CHAUHAN,English Core,92,A2,Mathematics,48,C2,B.Studies,89,A2,Economics,71,B1,Accountancy,69,B2,PASS,369,73.8
+9118280,PRIYAL,CHAUDHARY,,English Core,95,A1,Mathematics,75,B1,B.Studies,95,A1,Economics,69,B1,Accountancy,84,A2,PASS,418,83.6
+9118281,PULKIT,SHARMA,,English Core,66,C2,Mathematics,55,C1,B.Studies,62,C2,Economics,71,B1,Accountancy,71,B2,PASS,325,65
+9118282,RADHIKA,GUPTA,,English Core,77,B2,Mathematics,53,C1,B.Studies,66,C1,Economics,52,C1,Accountancy,62,C1,PASS,310,62
+9118283,RADHIKA,MANCHANDA,,English Core,88,A2,Mathematics,79,A2,B.Studies,98,A1,Economics,95,A1,Accountancy,95,A1,PASS,455,91
+9118284,RAGHAV,KALRA,,English Core,95,A1,Mathematics,84,A2,B.Studies,97,A1,Economics,95,A1,Accountancy,99,A1,PASS,470,94
+9118285,SAMEER,KAPUR,,English Core,89,A2,Mathematics,35,D2,B.Studies,72,C1,Economics,58,B2,Accountancy,65,C1,PASS,319,63.8
+9118286,SAMIKSHA,JAI,,English Core,95,A1,Mathematics,51,C2,B.Studies,94,A2,Economics,61,B2,Accountancy,76,B1,PASS,377,75.4
+9118287,SAMIKSHA,KHURANA,,English Core,90,A2,Mathematics,48,C2,B.Studies,93,A2,Economics,94,A1,Accountancy,94,A1,PASS,419,83.8
+9118288,SAURABH,GUPTA,,English Core,77,B2,Mathematics,48,C2,B.Studies,77,B2,Economics,49,C2,Accountancy,79,B1,PASS,330,66
+9118289,SHIVANI,TANEJA,,English Core,73,C1,Mathematics,42,D1,B.Studies,72,C1,Economics,71,B1,Accountancy,49,D1,PASS,307,61.4
+9118290,SHWETA,SHARMA,,English Core,79,B2,Mathematics,38,D1,B.Studies,72,C1,Economics,56,C1,Accountancy,65,C1,PASS,310,62
+9118291,SIDDHANT,MAHAJAN,,English Core,84,B1,Mathematics,95,A1,B.Studies,95,A1,Economics,95,A1,Accountancy,97,A1,PASS,466,93.2
+9118292,SIDDHARTH,DAHRA,,English Core,95,A1,Mathematics,33,D2,B.Studies,88,B1,Economics,63,B2,Accountancy,66,B2,PASS,345,69
+9118293,SITAL,JAIN,,English Core,95,A1,Mathematics,58,C1,B.Studies,95,A1,Economics,86,A2,Accountancy,100,A1,PASS,434,86.8
+9118294,SRISHTI,ARORA,,English Core,92,A2,Mathematics,50,C2,B.Studies,91,A2,Economics,76,B1,Accountancy,72,B2,PASS,381,76.2
+9118295,TANVI,ARORA,,English Core,88,A2,Mathematics,80,A2,B.Studies,84,B1,Economics,71,B1,Accountancy,90,A2,PASS,413,82.6
+9118296,UDIT,SHARMA,,English Core,81,B2,Mathematics,67,B2,B.Studies,93,A2,Economics,84,A2,Accountancy,80,B1,PASS,405,81
+9118297,UJJWAL,MONGIA,,English Core,90,A2,Mathematics,54,C1,B.Studies,91,A2,Economics,74,B1,Accountancy,94,A1,PASS,403,80.6
+9118298,VANI,JOLLY,,English Core,95,A1,Mathematics,48,C2,B.Studies,94,A2,Economics,72,B1,Accountancy,71,B2,PASS,380,76
+9118299,YUGAL,GAMBHIR,,English Core,59,C2,Mathematics,40,D1,B.Studies,71,C1,Economics,70,B1,Accountancy,73,B1,PASS,313,62.6
+9118300,AAYUSH,ARORA,,English Core,79,B2,Mathematics,41,D1,B.Studies,74,B2,Economics,71,B1,Accountancy,65,C1,PASS,330,66
+9118301,AKANSHA,BANSAL,,English Core,88,A2,Mathematics,85,A2,B.Studies,95,A1,Economics,95,A1,Accountancy,95,A1,PASS,458,91.6
+9118302,ANKUSH,AHUJA,,English Core,79,B2,Mathematics,42,D1,B.Studies,76,B2,Economics,69,B1,Accountancy,66,B2,PASS,332,66.4
+9118303,BHAVYA,MEHRA,,English Core,88,A2,Mathematics,37,D2,B.Studies,84,B1,Economics,72,B1,Accountancy,64,C1,PASS,345,69
+9118304,CHIRAG,DUA,,English Core,71,C1,Mathematics,33,D2,B.Studies,77,B2,Economics,56,C1,Accountancy,61,C1,PASS,298,59.6
+9118305,GUNEET,SINGH,,English Core,95,A1,Mathematics,86,A2,B.Studies,95,A1,Economics,95,A1,Accountancy,97,A1,PASS,468,93.6
+9118306,JYOTI,SANORIA,,English Core,95,A1,Mathematics,83,A2,B.Studies,95,A1,Economics,95,A1,Accountancy,95,A1,PASS,463,92.6
+9118307,KSHITIJ,VERMA,,English Core,80,B2,Mathematics,77,B1,B.Studies,93,A2,Economics,90,A1,Accountancy,96,A1,PASS,436,87.2
+9118308,MAYANK,SETHI,,English Core,88,A2,Mathematics,60,B2,B.Studies,72,C1,Economics,66,B2,Accountancy,81,B1,PASS,367,73.4
+9118309,NIKHIL,ARORA,,English Core,75,B2,Mathematics,33,D2,B.Studies,88,B1,Economics,61,B2,Accountancy,58,C2,PASS,315,63
+9118310,NIKHITA,KAPOOR,,English Core,69,C1,Mathematics,51,C2,B.Studies,83,B1,Economics,70,B1,Accountancy,72,B2,PASS,345,69
+9118311,NIKITA,GUPTA,,English Core,95,A1,Mathematics,96,A1,B.Studies,99,A1,Economics,95,A1,Accountancy,100,A1,PASS,485,97
+9118312,PARAS,MAGGU,,English Core,78,B2,Mathematics,34,D2,B.Studies,68,C1,Economics,56,C1,Accountancy,61,C1,PASS,297,59.4
+9118313,SHALINI,LALL,,English Core,85,B1,Mathematics,48,C2,B.Studies,82,B1,Economics,47,C2,Accountancy,67,B2,PASS,329,65.8
+9118314,SHREY,GUPTA,,English Core,93,A2,Mathematics,87,A2,B.Studies,95,A1,Economics,96,A1,Accountancy,95,A1,PASS,466,93.2
+9118315,SHIVAM,MALHOTRA,,English Core,83,B1,Mathematics,33,D2,B.Studies,89,A2,Economics,54,C1,Accountancy,50,D1,PASS,309,61.8
+9118316,SIDDHARTH,MAHAJAN,,English Core,78,B2,Mathematics,11,FE,B.Studies,71,C1,Economics,46,C2,Accountancy,59,C2,COMP,265,53
+9118317,SONALI,VIJ,,English Core,95,A1,Mathematics,95,A1,B.Studies,95,A1,Economics,95,A1,Accountancy,96,A1,PASS,476,95.2
+9118318,VAISHALI,JAIN,,English Core,95,A1,Mathematics,85,A2,B.Studies,98,A1,Economics,93,A1,Accountancy,99,A1,PASS,470,94
+9118319,VAISHNAVI,ARORA,,English Core,75,B2,Mathematics,55,C1,B.Studies,85,B1,Economics,59,B2,Accountancy,70,B2,PASS,344,68.8
+9118320,YASH,RASTOGI,,English Core,88,A2,Mathematics,80,A2,B.Studies,95,A1,Economics,95,A1,Accountancy,98,A1,PASS,456,91.2
+,,,,,,,,,,,,,,,,,,,,,
+9118321,ANJALI,,,English Core,80,B2,Hindi Elective,62,B2,Pol. Science,55,C1,Economics,58,B2,Mathematics,56,C1,PASS,311,62.2
+9118322,CHANDNI,SHARMA,,English Core,90,A2,Hindi Elective,91,A1,Pol. Science,75,A2,Economics,86,A2,Mathematics,82,A2,PASS,424,84.8
+9118323,AASTHA,SHARMA,,English Core,74,C1,Hindi Elective,64,B2,Pol. Science,49,C2,Economics,51,C1,Info. Practices,75,C2,PASS,313,62.6
+9118324,AMANAT,KAUR,TIWANA,English Core,92,A2,Hindi Elective,75,A2,Pol. Science,95,A1,Economics,74,B1,Info. Practices,81,C1,PASS,417,83.4
+9118325,BANI,VIG,,English Core,94,A1,Hindi Elective,81,A1,Pol. Science,75,A2,Economics,61,B2,Info. Practices,81,C1,PASS,392,78.4
+9118326,DIVYANSHU,AGGARWAL,,English Core,74,C1,Hindi Elective,55,C1,Pol. Science,77,A2,Economics,44,D1,Info. Practices,69,C2,PASS,319,63.8
+9118327,DRAVIKA,TREHAN,,English Core,90,A2,Hindi Elective,76,A2,Pol. Science,95,A1,Economics,95,A1,Info. Practices,94,A2,PASS,450,90
+9118328,MAHIMA,THAKURANI,,English Core,95,A1,Hindi Elective,84,A1,Pol. Science,95,A1,Economics,86,A2,Info. Practices,98,A1,PASS,458,91.6
+9118329,NAABGHA,FIRDAUSI,,English Core,82,B1,Hindi Elective,64,B2,Pol. Science,80,A2,Economics,79,A2,Info. Practices,85,B2,PASS,390,78
+9118330,PARIDHI,JAIN,,English Core,95,A1,Hindi Elective,70,B1,Pol. Science,89,A1,Economics,65,B2,Info. Practices,84,B2,PASS,403,80.6
+9118331,PARTH,CHOPRA,,English Core,75,B2,Hindi Elective,66,B1,Pol. Science,60,B2,Economics,60,B2,Info. Practices,71,C2,PASS,332,66.4
+9118332,SHAN,UL,ISLAM,English Core,95,A1,Hindi Elective,56,C1,Pol. Science,58,C1,Economics,44,D1,Info. Practices,69,C2,PASS,322,64.4
+9118333,SIMRAN,CHOPRA,,English Core,69,C1,Hindi Elective,57,C1,Pol. Science,61,B2,Economics,71,B1,Info. Practices,93,A2,PASS,351,70.2
+9118334,SURAKSHA,SAREEN,,English Core,90,A2,Hindi Elective,85,A1,Pol. Science,97,A1,Economics,95,A1,Info. Practices,96,A1,PASS,463,92.6
+9118335,TANYA,ARORA,,English Core,82,B1,Hindi Elective,65,B1,Pol. Science,53,C1,Economics,54,C1,Info. Practices,74,C2,PASS,328,65.6
+9118336,VAISHNAVI,GUPTA,,English Core,84,B1,Hindi Elective,60,B2,Pol. Science,53,C1,Economics,37,D1,Info. Practices,68,D1,PASS,302,60.4
